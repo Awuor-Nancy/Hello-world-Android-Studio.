@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/ic_baseline_height_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_line_weight_24.xml" value="0.1295" />
         <entry key="app/src/main/res/drawable/ic_sharp_fitness_center_24.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_bmicalculate.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_bmicalculate.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_calculate_bma.xml" value="0.19322916666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/activity_send_cash.xml" value="0.17291666666666666" />
+        <entry key="app/src/main/res/layout/activity_send_cash.xml" value="0.33" />
       </map>
     </option>
   </component>

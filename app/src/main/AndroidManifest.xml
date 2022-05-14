@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.First_Helloworld">
         <activity
+            android:name=".CALCULATE_BMA_ACTIVITY"
+            android:exported="false" />
+        <activity
             android:name=".sendCash"
             android:exported="false" />
         <activity
